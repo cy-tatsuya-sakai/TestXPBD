@@ -1,5 +1,8 @@
 CEDEC2022で紹介されたXPBD, SubstepXPBDのコードを写経したUnityプロジェクトです
 
+記事<br>
+https://qiita.com/cy-tatsuya-sakai/items/a028f2a639083786a5a0
+
 ## 参考資料
 Position Based Dynamics Onramp: 物理シミュレーション関連の最新論文実装<br>
 https://cedil.cesa.or.jp/cedil_sessions/view/2512<br>
